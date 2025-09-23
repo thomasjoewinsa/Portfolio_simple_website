@@ -1,4 +1,4 @@
-## My Portfoili Website
+## My Portfolio Website
 This repository features a simple website built using basic HTML and CSS. It demonstrates fundamental web development concepts by structuring content with straightforward HTML tags and applying simple styling with CSS.
 This is a simple and responsive personal portfolio website built using basic HTML and CSS. The purpose of this project is to showcase my web development skills, projects, and provide a way for others to contact me.
 
