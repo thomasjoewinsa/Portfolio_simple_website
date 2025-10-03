@@ -15,7 +15,7 @@ This is a simple and responsive personal portfolio website built using basic HTM
 *Fully responsive layout
 
 ## Build with
-HTML5
+html5
 
 css
 
