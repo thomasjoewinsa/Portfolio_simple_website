@@ -17,11 +17,11 @@ This is a simple and responsive personal portfolio website built using basic HTM
 ## Build with
 HTML5
 
-CSS3
+css
 
 ## How to view
 portfolio.html:C:\Users\prabh\Desktop\FSWD\portfolio.html
 
-contact.html:C:\Users\prabh\Desktop\FSWD\contact.html
+contact.html: C:\Users\prabh\Desktop\FSWD\contact.html
 
-style.css:C:\Users\prabh\Desktop\FSWD\style.css
+style.css: C:\Users\prabh\Desktop\FSWD\style.css
